@@ -1,0 +1,12 @@
+---
+title: "Brad Efron, Chapter 1"
+author: "Fred Boehm"
+date: "December 22, 2014"
+bibliography: reading-group.bib
+output: html_document
+---
+
+#### Chapter 1 of @efron2010large
+
+#### References
+
